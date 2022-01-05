@@ -1,0 +1,23 @@
+{
+  "name": "server_product",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angga1992/server_product.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angga1992/server_product/issues"
+  },
+  "homepage": "https://github.com/angga1992/server_product#readme"
+}
